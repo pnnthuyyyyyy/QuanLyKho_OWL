@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OWL Dashboard</title>
-    <link rel="stylesheet" type="text/css" href="dashboard_style.css">
+    <link rel="stylesheet" type="text/css" href="css/dashboard_style.css">
     <script src="https://use.fontawesome.com/0c7a3095b5.js"></script>
    
 </head>
@@ -13,7 +13,7 @@
         <div class="dashboard_sidebar" id="dashboard_sidebar">
             <h3 class="dashboard_logo">IMS</h3>
             <div class="dashboard_sidebar_user">
-                <img src="images.jpg" alt="User Image." id="userImage"/>
+                <img src="images/user.jpg" alt="User Image." id="userImage"/>
                 <span><?=$user['first_name'].''.$user['last_name']></span>
                 <span>OWL</span>
             </div>
