@@ -103,7 +103,7 @@ div.header a:hover{
 }
 
 div.banner{
-	background: url('../images/banner.jpg') no-repeat center center fixed;
+	background: url('../images/banner.png') no-repeat center center fixed;
 	background-size: cover;
 	padding-top: 100px;
 	padding-bottom: 100px;
